@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 05 Jan 2022 16:52:48 at https://invisiblefriends.dev/
+(winhttrack https://invisiblefriends.dev/ -O "./websites/eed" -Y -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:52:58	Error: 	"Not Found" (404) at link https://invisiblefriends.dev/InvsbleFriends.html (from https://invisiblefriends.dev/)
+16:52:58	Error: 	"Not Found" (404) at link https://invisiblefriends.dev/invite/rndm.html (from https://invisiblefriends.dev/)
+16:52:58	Error: 	"Not Found" (404) at link https://invisiblefriends.dev/assets/FatFrank-Regular.bc0effe9.eot (from https://invisiblefriends.dev/assets/e608c64727815b9b.css)
+16:52:58	Error: 	"Not Found" (404) at link https://invisiblefriends.dev/assets/FatFrank-Regular.bc0effe9d41d.eot (from https://invisiblefriends.dev/assets/e608c64727815b9b.css)
+16:52:58	Error: 	"Not Found" (404) at link https://invisiblefriends.dev/assets/FatFrank-Regular.af55af9b.woff2 (from https://invisiblefriends.dev/assets/e608c64727815b9b.css)
+16:52:58	Error: 	"Not Found" (404) at link https://invisiblefriends.dev/assets/FatFrank-Regular.1d9f766c.ttf (from https://invisiblefriends.dev/assets/e608c64727815b9b.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 seconds : 19 links scanned, 11 files written (16115782 bytes overall) [15119961 bytes received at 1511996 bytes/sec], 1415713 bytes transferred using HTTP compression in 14 files, ratio 28%, 3.1 requests per connection
+(6 errors, 0 warnings, 0 messages)
